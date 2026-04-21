@@ -6,4 +6,4 @@ Official repository for the paper:
 
 ## Status
 This repository is currently under construction.  
-The code and pretrained weights will be made publicly available upon acceptance of the paper.
+The code will be made publicly available upon acceptance of the paper.
