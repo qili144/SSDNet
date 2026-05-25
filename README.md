@@ -2,7 +2,7 @@
 
 Official repository for the paper:
 
-**SSDNet: A Spatial–Spectral Dual-Path Network for Multispectral Crop Semantic Segmentation**
+**SSDNet: A Spatial–Spectral Dual-Path Network for Sentinel-2 Crop Semantic Segmentation**
 
 ## Status
 This repository is currently under construction.  
